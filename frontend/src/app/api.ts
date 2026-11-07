@@ -2,7 +2,7 @@ import { Injectable, computed, inject, signal } from '@angular/core';
 import { HttpClient, HttpInterceptorFn } from '@angular/common/http';
 import { catchError, throwError } from 'rxjs';
 
-export const API = 'https://bahay-kubo-api.vercel.app/api';
+export const API = 'https://bahay-kubo2-enoe.vercel.app/api';
 
 export interface Product {
   _id?: string;
