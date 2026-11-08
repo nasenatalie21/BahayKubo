@@ -20,7 +20,7 @@ A product catalog of locally made furnitures with a simple admin area. Visitors 
 
 ```bash
 cd frontend && npm install && npm run build
-cd ../backend && npm install && cp .env.example .env
+cd backend && npm install && cp .env.example .env
 npm start
 ```
 
